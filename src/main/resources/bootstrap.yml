@@ -1,0 +1,6 @@
+#The name of the application
+spring.application.name: config-client
+#The URI of your Spring Cloud Config Server
+spring.cloud.config.uri: http://testing:8080
+spring.profiles.active=development
+logging.level.web: INFO
