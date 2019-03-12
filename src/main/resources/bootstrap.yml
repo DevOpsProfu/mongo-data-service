@@ -3,6 +3,5 @@ spring.application.name: config-client
 #The URI of your Spring Cloud Config Server
 spring.cloud.config.uri: http://testing:8080
 spring.profiles.active: development
-spring.data.mongodb.host: http://mongodb-arquitectura.apps.paas.profuturo.com.mx
-spring.data.mongodb.port: 27017
+
 
